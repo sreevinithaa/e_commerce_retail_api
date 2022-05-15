@@ -60,7 +60,7 @@ Run the following command at th root of your project and check the method using 
 ## Vedio of functionality
 
 ![E-commerce gif link -1](./assets/img/ECommerce_part_1.gif)!<br>
-The full movie file showing functionality of the application can be found [part-1]  (https://sreevinithaa.github.io/e_commerce_retail_api/assets/vedio/ECommerce_part_1.mp4)[part-2]   (https://sreevinithaa.github.io/e_commerce_retail_api/assets/vedio/ECommerce_part_2.mp4)
+The full movie file showing functionality of the application can be found [part-1](https://sreevinithaa.github.io/e_commerce_retail_api/assets/vedio/ECommerce_part_1.mp4)  [part-2](https://sreevinithaa.github.io/e_commerce_retail_api/assets/vedio/ECommerce_part_2.mp4)
 
 
 
